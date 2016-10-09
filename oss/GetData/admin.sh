@@ -1,0 +1,11 @@
+export OS_PROJECT_DOMAIN_ID=default
+export OS_USER_DOMAIN_ID=default
+export OS_PROJECT_NAME=admin
+export OS_TENANT_NAME=admin
+export OS_USERNAME=admin
+export OS_PASSWORD=password
+export OS_AUTH_URL=http://30.30.0.3:5000/v2.0
+export OS_IMAGE_API_VERSION=2
+export OS_VOLUME_API_VERSION=2
+#export OS_HEAT_API_VERSION=2
+export HEAT_INCLUDE_PASSWORD=1

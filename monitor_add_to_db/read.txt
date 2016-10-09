@@ -1,0 +1,3 @@
+###
+监听计算节点vm_monitor_tool，并将虚机添加入host，vm_host表中
+

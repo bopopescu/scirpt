@@ -1,0 +1,254 @@
+2015-12-12 14:23:39 [22365] [INFO] Starting gunicorn 18.0
+2015-12-12 14:23:39 [22365] [INFO] Listening at: http://0.0.0.0:9900 (22365)
+2015-12-12 14:23:39 [22365] [INFO] Using worker: sync
+2015-12-12 14:23:39 [22370] [INFO] Booting worker with pid: 22370
+2015-12-12 14:23:39 [22373] [INFO] Booting worker with pid: 22373
+2015-12-12 14:23:39 [22376] [INFO] Booting worker with pid: 22376
+2015-12-12 14:23:39 [22379] [INFO] Booting worker with pid: 22379
+2016-01-09 11:45:46 [22365] [INFO] Handling signal: term
+2016-01-09 11:45:46 [22379] [INFO] Worker exiting (pid: 22379)
+2016-01-09 11:45:46 [22370] [INFO] Worker exiting (pid: 22370)
+2016-01-09 11:45:46 [22373] [INFO] Worker exiting (pid: 22373)
+2016-01-09 11:45:46 [22376] [INFO] Worker exiting (pid: 22376)
+2016-01-09 11:45:46 [22365] [INFO] Shutting down: Master
+2016-01-09 11:45:51 [22733] [INFO] Starting gunicorn 17.5
+2016-01-09 11:45:51 [22733] [INFO] Listening at: http://0.0.0.0:9900 (22733)
+2016-01-09 11:45:51 [22733] [INFO] Using worker: sync
+2016-01-09 11:45:51 [22746] [INFO] Booting worker with pid: 22746
+2016-01-09 11:45:51 [22770] [INFO] Booting worker with pid: 22770
+2016-01-09 11:45:52 [22775] [INFO] Booting worker with pid: 22775
+2016-01-09 11:45:52 [22795] [INFO] Booting worker with pid: 22795
+2016-01-10 16:03:59 [22733] [INFO] Handling signal: term
+2016-01-10 16:03:59 [22795] [INFO] Worker exiting (pid: 22795)
+2016-01-10 16:03:59 [22746] [INFO] Worker exiting (pid: 22746)
+2016-01-10 16:03:59 [22770] [INFO] Worker exiting (pid: 22770)
+2016-01-10 16:03:59 [22775] [INFO] Worker exiting (pid: 22775)
+2016-01-10 16:03:59 [22733] [INFO] Shutting down: Master
+2016-01-10 16:06:02 [8225] [INFO] Starting gunicorn 17.5
+2016-01-10 16:06:02 [8225] [INFO] Listening at: http://0.0.0.0:9900 (8225)
+2016-01-10 16:06:02 [8225] [INFO] Using worker: sync
+2016-01-10 16:06:02 [8230] [INFO] Booting worker with pid: 8230
+2016-01-10 16:06:02 [8233] [INFO] Booting worker with pid: 8233
+2016-01-10 16:06:02 [8236] [INFO] Booting worker with pid: 8236
+2016-01-10 16:06:02 [8238] [INFO] Booting worker with pid: 8238
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","coun192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:12122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","coun34","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_request122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_tter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=2016-01-13 10:11:17 [8225] [INFO] Handling signal: term
+2016-01-13 10:11:17 [8238] [INFO] Worker exiting (pid: 8238)
+2016-01-13 10:11:17 [8230] [INFO] Worker exiting (pid: 8230)
+2016-01-13 10:11:17 [8233] [INFO] Worker exiting (pid: 8233)
+2016-01-13 10:11:17 [8236] [INFO] Worker exiting (pid: 8236)
+s/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+ter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+122.115.51.8:9900
+[{"endpoint":"122.115.51.8:9900","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.8:9900","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+ime/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+122.115.51.12:1234
+[{"endpoint":"122.115.51.12:1234","counter":"num_requests/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}},{"endpoint":"122.115.51.12:1234","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":0,"value":0.000000}}]
+192.168.38.167:6169
+[{"endpoint":"192.168.38.167:6169","counter":"num_requests/module=log,service=nginx","value":{"timestamp":1452326160,"value":127.000000}},{"endpoint":"192.168.38.167:6169","counter":"aver_resp_time/module=log,service=nginx","value":{"timestamp":1452326160,"value":0.000000}}]
+2016-01-13 10:11:17 [8225] [INFO] Shutting down: Master
+2016-01-13 10:11:20 [19263] [INFO] Starting gunicorn 17.5
+2016-01-13 10:11:20 [19263] [INFO] Listening at: http://0.0.0.0:9900 (19263)
+2016-01-13 10:11:20 [19263] [INFO] Using worker: sync
+2016-01-13 10:11:20 [19268] [INFO] Booting worker with pid: 19268
+2016-01-13 10:11:20 [19271] [INFO] Booting worker with pid: 19271
+2016-01-13 10:11:20 [19274] [INFO] Booting worker with pid: 19274
+2016-01-13 10:11:20 [19275] [INFO] Booting worker with pid: 19275
