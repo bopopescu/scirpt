@@ -14,7 +14,7 @@ def install_salt():
         else:
                 print(green("install salt-minion success"))
 def config_salt():
-#        result = run("sed -i 's/^#master:.*/master: 10.1.0.12/' %s" % path_config)
+#        result = run("sed -i 's/^#main:.*/main: 10.1.0.12/' %s" % path_config)
 #        if result.failed:
 #                abort(red("modifiy minion failed!!"))
 #        else:
